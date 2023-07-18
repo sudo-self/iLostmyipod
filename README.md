@@ -1,2 +1,3 @@
 # iLostmyipod
-![Screenshot 2023-07-18 at 12 10 54 AM](https://github.com/sudo-self/cash-app/assets/119916323/43b8d12b-054a-4c54-8cde-10095bce3c22)
+<img width="1044" alt="Screenshot 2023-07-18 at 12 35 21 AM" src="https://github.com/sudo-self/cash-app/assets/119916323/7c55dc47-7f1d-4c4e-9888-ef321bf0f7f3">
+
